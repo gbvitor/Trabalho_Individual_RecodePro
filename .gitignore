@@ -1,2 +1,6 @@
-agenciaViagens/bin
-agenciaViagens/.settings
+
+*/bin
+*/.settings
+
+*.project
+*.classpath
